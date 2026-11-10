@@ -1,3 +1,3 @@
 window.RETRO_CONFIG = {
-  apiBase: "https://YOUR-BACKEND.YOUR-SUBDOMAIN.workers.dev"
+  apiBase: "https://backend.arthyion.com"
 };
